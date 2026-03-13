@@ -30,3 +30,20 @@ section p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
 }
+
+#lists {
+    background-color: black;
+    padding: 10px;
+}
+
+ul {
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+ol {
+    color: gold;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
